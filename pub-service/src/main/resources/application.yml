@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: pub-service
+
+server:
+  port: 9909
